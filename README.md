@@ -1,2 +1,2 @@
 # ewu-git-demo
-this is a dummy project for github
+This is a dummy project for git workshop conducted by EWURC
